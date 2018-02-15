@@ -1,0 +1,12 @@
+# ignore intermediate files created by IntelliJ
+.idea
+*/.idea
+*/.metadata
+*/.recommenders
+*.iml
+
+# ignore all OS generated files
+
+.DS_Store
+*/.DS_Store
+/phaseC/PlagiarismDetectorUI/build/
